@@ -16,3 +16,6 @@ Script-Ware-m: https://script-ware.com/m
 
 
 kan134: Comming Soon!
+
+
+EasyExploitsAPI: https://easyexploits.com/downloadexploit?id=6
