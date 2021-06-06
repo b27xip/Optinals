@@ -20,3 +20,5 @@ kan134: Comming Soon!
 
 
 EasyExploitsAPI: https://easyexploits.com/downloadexploit?id=6
+
+## Script: https://raw.githubusercontent.com/b27xip/Optinals/main/main.lua
